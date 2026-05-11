@@ -1,0 +1,8 @@
+a=input("Enter a value: ")
+b=input("Enter another value: ")
+c=input("Enter a third value: ")
+d=input("Enter a fourth value: ")
+print("The value of a is: ",int(a))
+print("The value of b is: ",float(b))
+print("The value of c is: ",str(c))
+print("The value of d is: ",bool(d))
