@@ -27,5 +27,5 @@ output:
 3=> Enter the first number: 7
     Enter the second number: 7
     Enter the third number: 7
-    All numbers are equal:  7
+    All numbers are equal:  7 
 '''        
