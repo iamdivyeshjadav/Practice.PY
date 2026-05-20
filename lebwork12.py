@@ -3,20 +3,20 @@ b=input("press 1 for thin crust pizza,2 for cheese burst pizza,3 for fresh dough
 
 match a:
     case '1':
-        print("You selected a sandwich.")
+        print("You selected a sandwich.🥪")
     case '2':
-        print("You selected a pizza.")
+        print("You selected a pizza.🍕")
     case '3':
-        print("You selected a burger.")
+        print("You selected a burger.🍔")
     case _:
         print("Invalid choice.")
 match b:
     case '1':
-        print("You selected a thin crust pizza.")
+        print("You selected a thin crust pizza.🥞")
     case '2':
-        print("You selected a cheese burst pizza.")
+        print("You selected a cheese burst pizza.🧀")
     case '3':
-        print("You selected a fresh dough pizza.")
+        print("You selected a fresh dough pizza.🍞")
     case _:
         print("Invalid choice.")
 '''
