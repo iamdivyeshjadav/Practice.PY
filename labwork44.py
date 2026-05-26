@@ -1,0 +1,7 @@
+my_list=[1,2,3,4,5]
+del my_list[1]
+print(my_list)
+'''
+output:
+[1, 3, 4, 5]
+'''
