@@ -24,3 +24,4 @@ output:
     float/int: The calculated area (length * width).
 Area: 50
 """
+
